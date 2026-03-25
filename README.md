@@ -32,9 +32,8 @@ Essa API poderá ser usada por:
 
 ---
 
-## 🎯 Objetivo
+## Imagem de Teste da API
+<img width="1637" height="687" alt="image" src="https://github.com/user-attachments/assets/0e68444a-c847-438b-b56a-07968ab7f7c9" />
 
-Criar uma **Web API em .NET 10** chamada:
 
-```bash
-SpiderNetApi
+
